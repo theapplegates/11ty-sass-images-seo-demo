@@ -26,3 +26,5 @@ This starter template does not:
 - Get in your way.
 
 Most of this template serves as the foundation for [my personal website](https://github.com/AleksandrHovhannisyan/aleksandrhovhannisyan.com).
+
+{% image '/assets/images/volvo.jpg', 'A Volvo' %}
